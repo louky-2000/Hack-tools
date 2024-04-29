@@ -2,8 +2,7 @@
 
 ## Informations gathering tools
 
-| wafw00f   : The Web Application Firewall Detection
-| dirbuster : Files and directories discovery tool
-| gobuster  : Files and directories discovery tool
-| WhatWeb   : Next generation web scanner
-
+- wafw00f   : The Web Application Firewall Detection
+- dirbuster : Files and directories discovery tool
+- gobuster  : Files and directories discovery tool
+- whatweb   : Next generation web scanner
