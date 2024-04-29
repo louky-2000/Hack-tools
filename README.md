@@ -1,2 +1,8 @@
-# Hack-tools
-This repository help me to remember the utility of some tools for pentest
+## Web pentesting
+
+# Informations gathering tools
+
+- wafw00f   : The Web Application Firewall Detection
+- dirbuster : Files and directories discovery tool
+- gobuster  : Files and directories discovery tool
+
