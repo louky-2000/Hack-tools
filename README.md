@@ -8,6 +8,14 @@
 - whatweb   : Next generation web scanner
 
 
+## Web App attacks 
+
+### XSS (Cross Site Scripting)
+
+### CSRF (Cross Site Request Forgery)
+
+### SqlInjection
+
 ## Source of vulnerable web app for owasp 
 
 - https://sourceforge.net/projects/owaspbwa/
