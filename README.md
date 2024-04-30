@@ -14,7 +14,7 @@
 
 ### CSRF (Cross Site Request Forgery)
 
-### SqlInjection
+### Sql Injection
 
 ## Source of vulnerable web app for owasp 
 
